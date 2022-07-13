@@ -5,7 +5,7 @@ Estación meteorológica simple usando Arduino.
 <h5>Sensor DHT22</h5>
 <p>Uno de los sensores a utilizar es el DHT22, el cual es un sensor digital de temperatura y humedad relativa de buen rendimiento y bajo costo. 
     Integra un sensor capacitivo de humedad y un termistor para medir el aire circundante, y muestra los datos mediante una señal digital en el pin de datos 
-    (no posee salida analógica). Utilizado en aplicaciones de control automático de temperatura, aire acondicionado, monitoreo ambiental en agricultura y más. </p>4
+    (no posee salida analógica). Utilizado en aplicaciones de control automático de temperatura, aire acondicionado, monitoreo ambiental en agricultura y más. </p>
 
 <img src="img/DHT22.png">
 
